@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    padding-right: 140px;
+    padding-left: 140px;
+    min-height: 100vh;
+    align-items: center;
+}
+
+.w-full {
+    width: 100%;
+}
+
+.flex-grow-1 {
+    flex-grow: 1;
+}
+
+.flex-grow-0\.9 {
+    flex-grow: .9;
+}
+
+.text-36px {
+    font-size: 36px;
+}
+
+.flex {
+    display: flex;
+}
+
+.gap-20px {
+    gap: 20px;
+}
+
+.items-center {
+    align-items: center;
+}
